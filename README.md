@@ -37,5 +37,5 @@ Ikuti langkah-langkah berikut untuk mengonfigurasi proyek dari awal:
 
 ### 1. Clone Repositori
 ```bash
-git clone [https://github.com/](https://github.com/)<ORGANIZATION_ATAU_USER>/<REPO_BACKEND>.git
-cd <REPO_BACKEND>
+git clone https://github.com/projectdondu-humma/api-dondu.git
+cd api-dondu
